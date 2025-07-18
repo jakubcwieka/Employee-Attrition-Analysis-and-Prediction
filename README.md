@@ -36,7 +36,7 @@ Machine learning methods, particularly tree-based ensembles, outperformed tradit
 While random forests and boosted trees offer strong predictive performance and insights into variable importance, their results are less directly transportable without the underlying data. Conversely, logistic regression offers interpretability but lacks predictive power in this scenario due to the subtlety and multi-causality of attrition factors.
 
 ### Conclusions
-The project demonstrates the power of data-driven approaches in diagnosing and predicting employee attrition, delivering actionable insights to HR teams and advancing data science skills ranging from EDA to advanced classification modeling and interpretability.
+The project demonstrates the power of data-driven approaches in diagnosing and predicting employee attrition, delivering actionable insights to HR teams and advancing data science skills ranging from EDA to advanced classification modeling and interpretability. Future actions could inlude further hyperparameter tuning, repeated cross-validation, exploring alternative models, feature engineering, and generating recommendations for data gathering to acquire more of the usefull information
 
 Again, **full version of the report** available [here](Employee_Attrition_Analysis_and_Prediction%20-%20Data%20Science%20Report.pdf)
 
