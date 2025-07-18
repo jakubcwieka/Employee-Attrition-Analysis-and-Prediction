@@ -1,2 +1,2 @@
 # Employee-Attrition-Analysis-and-Prediction
-Using Machine Learning models to predict employee attrition and gain insight into hidden patterns. 
+This repository was made to showcase my skills in data analysis and results presentation. Using HR Employee Attrition data from Kaggle, I conduct an complete analysis from preparing the data, through fitting different predictive models to drawing substantial and coherent conclusions. Both the analysis and visualizations were made in R Studio, and the article was assembled in LaTeX. I highly recommend to check the final raport, as it discussess the topic in more detail.   
