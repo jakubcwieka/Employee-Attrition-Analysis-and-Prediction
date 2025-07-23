@@ -1,5 +1,9 @@
 # Employee-Attrition-Analysis-and-Prediction
-This repository was made to showcase my skills in data analysis and results presentation. Using HR Employee Attrition data from Kaggle, I conduct an complete analysis from preparing the data, through fitting different predictive models to drawing substantial and coherent conclusions. Both the analysis and visualizations were made in R Studio, and the article was assembled in LaTeX. I highly recommend checking the [final report](Employee_Attrition_Analysis_and_Prediction%20-%20Data%20Science%20Report.pdf), as it discusses the topic in more detail. You can also check the [R Code](Employee_attrition_code.R) file, where each step is described. This readme page is a summary and glimpse into my work.  
+This repository was made to showcase my skills in data analysis and results presentation. Using HR Employee Attrition data from Kaggle, I conduct an complete analysis from preparing the data, through fitting different predictive models to drawing substantial and coherent conclusions. Both the analysis and visualizations were made in R Studio, and the article was assembled in LaTeX. 
+
+I highly recommend checking the [final report](Employee_Attrition_Analysis_and_Prediction%20-%20Data%20Science%20Report.pdf), as it discusses the topic in more detail. 
+
+You can also check the [R Code](Employee_attrition_code.R) file, where each step is described. This readme page is a summary and glimpse into my work.  
 
 # Project Summary 
 
